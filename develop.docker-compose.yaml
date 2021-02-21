@@ -1,0 +1,56 @@
+version: '3'
+
+services:
+  db:
+    image: postgres
+    environment:
+      - POSTGRES_DB=postgres
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+
+  web:
+    build: ./backend
+    container_name: django
+    command: migrate_and_run_backend_develop
+    volumes:
+      - ./backend/app:/app
+    ports:
+      - "8000:8000"
+    environment:
+      - DEBUG=1
+      - CELERY_BROKER=redis://redis:6379/0
+      - CELERY_BACKEND=redis://redis:6379/0
+    depends_on:
+      - db
+      - redis
+
+  redis:
+    image: "redis:alpine"
+
+  scheduler:
+    build: ./backend
+    container_name: scheduler
+    command: run_scheduler
+    environment:
+      - CELERY_BROKER=redis://redis:6379/0
+      - CELERY_BACKEND=redis://redis:6379/0
+    volumes:
+      - ./backend/app:/app
+    depends_on:
+      - db
+      - redis
+      - web
+
+  worker:
+    build: ./backend
+    container_name: worker
+    command: run_worker
+    environment:
+      - CELERY_BROKER=redis://redis:6379/0
+      - CELERY_BACKEND=redis://redis:6379/0
+    volumes:
+      - ./backend/app:/app
+    depends_on:
+      - db
+      - redis
+      - web

@@ -1,0 +1,1508 @@
+[
+  {
+    "model": "menu.dish",
+    "pk": "01500bcb-9c61-4473-b6da-1e521c5c8904",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:08.407Z",
+      "last_update_date": "2021-02-18T12:37:08.407Z",
+      "name": "test97",
+      "prince": 97.0,
+      "preparation_time": 9700,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "018ac490-5952-435a-80ae-2df840da4ab8",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:07.293Z",
+      "last_update_date": "2021-02-18T12:37:07.293Z",
+      "name": "test67",
+      "prince": 67.0,
+      "preparation_time": 6700,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "06ff54ab-009c-44bd-b60a-cb31d507890a",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:05.649Z",
+      "last_update_date": "2021-02-18T12:37:05.650Z",
+      "name": "test22",
+      "prince": 22.0,
+      "preparation_time": 2200,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "0905e914-a313-43d2-b679-76e39897a881",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:07.431Z",
+      "last_update_date": "2021-02-18T12:37:07.431Z",
+      "name": "test71",
+      "prince": 71.0,
+      "preparation_time": 7100,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "090ca06f-dd98-4963-a510-5e09ec6448b9",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:07.462Z",
+      "last_update_date": "2021-02-18T12:37:07.462Z",
+      "name": "test72",
+      "prince": 72.0,
+      "preparation_time": 7200,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "0b02b49a-034b-43eb-a838-04bed6d6b55f",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:06.787Z",
+      "last_update_date": "2021-02-18T12:37:06.787Z",
+      "name": "test53",
+      "prince": 53.0,
+      "preparation_time": 5300,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "0bb9b733-bda2-4612-8c2c-f901cfe8ddeb",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:04.914Z",
+      "last_update_date": "2021-02-18T12:37:04.914Z",
+      "name": "test2",
+      "prince": 2.0,
+      "preparation_time": 200,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "0e4db2f4-112a-4217-89a8-0913571d5988",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:05.522Z",
+      "last_update_date": "2021-02-18T12:37:05.523Z",
+      "name": "test19",
+      "prince": 19.0,
+      "preparation_time": 1900,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "11f7f50b-89c4-4f8a-b74b-c996eb30ce9d",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:07.328Z",
+      "last_update_date": "2021-02-18T12:37:07.328Z",
+      "name": "test68",
+      "prince": 68.0,
+      "preparation_time": 6800,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "150d0f2b-aaa5-493a-a7ab-b3735e586d1a",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:05.414Z",
+      "last_update_date": "2021-02-18T12:37:05.414Z",
+      "name": "test16",
+      "prince": 16.0,
+      "preparation_time": 1600,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "1940f0d9-8665-47eb-8b3e-0397618d0d16",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:06.866Z",
+      "last_update_date": "2021-02-18T12:37:06.866Z",
+      "name": "test55",
+      "prince": 55.0,
+      "preparation_time": 5500,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "1bac5a71-ef63-42ff-8988-93f5f02de0b5",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:07.683Z",
+      "last_update_date": "2021-02-18T12:37:07.683Z",
+      "name": "test78",
+      "prince": 78.0,
+      "preparation_time": 7800,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "1d1d8a31-259e-49ad-b766-004e5fc5ccd5",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:08.299Z",
+      "last_update_date": "2021-02-18T12:37:08.299Z",
+      "name": "test94",
+      "prince": 94.0,
+      "preparation_time": 9400,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "220ad9fd-1594-4b9d-bea1-2d30a8e28242",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:05.207Z",
+      "last_update_date": "2021-02-18T12:37:05.207Z",
+      "name": "test10",
+      "prince": 10.0,
+      "preparation_time": 1000,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "283048de-209e-4104-a5b2-7fd03e3cf846",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:05.718Z",
+      "last_update_date": "2021-02-18T12:37:05.718Z",
+      "name": "test24",
+      "prince": 24.0,
+      "preparation_time": 2400,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "2aee843a-15bd-4102-baa9-27bfc20b9aef",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:06.627Z",
+      "last_update_date": "2021-02-18T12:37:06.627Z",
+      "name": "test49",
+      "prince": 49.0,
+      "preparation_time": 4900,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "2b9d013b-37e6-48f1-b22e-34f2f8d28317",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:07.909Z",
+      "last_update_date": "2021-02-18T12:37:07.909Z",
+      "name": "test84",
+      "prince": 84.0,
+      "preparation_time": 8400,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "2c81b3d8-0623-40b7-9db3-7d9bf1d652a7",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:08.112Z",
+      "last_update_date": "2021-02-18T12:37:08.112Z",
+      "name": "test89",
+      "prince": 89.0,
+      "preparation_time": 8900,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "4024184b-3aeb-4700-8c19-de2e7ee3aaec",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:07.075Z",
+      "last_update_date": "2021-02-18T12:37:07.075Z",
+      "name": "test61",
+      "prince": 61.0,
+      "preparation_time": 6100,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "406a0759-8e53-407c-8b09-ab459ff77449",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:04.947Z",
+      "last_update_date": "2021-02-18T12:37:04.947Z",
+      "name": "test3",
+      "prince": 3.0,
+      "preparation_time": 300,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "41e0cba0-7e40-431b-95b3-85f151fb755c",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:05.171Z",
+      "last_update_date": "2021-02-18T12:37:05.171Z",
+      "name": "test9",
+      "prince": 9.0,
+      "preparation_time": 900,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "41f8bbdb-7ab1-491f-a5ff-a25d78b20308",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:07.866Z",
+      "last_update_date": "2021-02-18T12:37:07.866Z",
+      "name": "test83",
+      "prince": 83.0,
+      "preparation_time": 8300,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "4260187b-5ddc-4626-925e-0d4c5100db77",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:05.988Z",
+      "last_update_date": "2021-02-18T12:37:05.988Z",
+      "name": "test32",
+      "prince": 32.0,
+      "preparation_time": 3200,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "4282ffc0-181e-4c77-b917-519018be21ca",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:05.098Z",
+      "last_update_date": "2021-02-18T12:37:05.098Z",
+      "name": "test7",
+      "prince": 7.0,
+      "preparation_time": 700,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "4ace16e0-66e2-4178-af9f-a429f0f0bc14",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:05.021Z",
+      "last_update_date": "2021-02-18T12:37:05.022Z",
+      "name": "test5",
+      "prince": 5.0,
+      "preparation_time": 500,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "4d1ca308-b853-4fce-9463-12907e4edade",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:07.946Z",
+      "last_update_date": "2021-02-18T12:37:07.946Z",
+      "name": "test85",
+      "prince": 85.0,
+      "preparation_time": 8500,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "4d3e2e1e-602c-493c-8d5a-44cc9f10cd9b",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:06.330Z",
+      "last_update_date": "2021-02-18T12:37:06.330Z",
+      "name": "test41",
+      "prince": 41.0,
+      "preparation_time": 4100,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "507e6a1d-2bf1-4773-919a-c14e3c8de8b9",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:05.597Z",
+      "last_update_date": "2021-02-18T12:37:05.597Z",
+      "name": "test21",
+      "prince": 21.0,
+      "preparation_time": 2100,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "522c44ec-f915-4f0a-bed7-f31da8debef3",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:07.651Z",
+      "last_update_date": "2021-02-18T12:37:07.651Z",
+      "name": "test77",
+      "prince": 77.0,
+      "preparation_time": 7700,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "54c09995-9c40-46f1-8afe-43b009ba97fd",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:05.849Z",
+      "last_update_date": "2021-02-18T12:37:05.849Z",
+      "name": "test28",
+      "prince": 28.0,
+      "preparation_time": 2800,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "55cd342d-ebf3-4515-9ca4-d0949d35077a",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:07.563Z",
+      "last_update_date": "2021-02-18T12:37:07.563Z",
+      "name": "test75",
+      "prince": 75.0,
+      "preparation_time": 7500,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "592fca37-132c-4e4f-8f14-aea45e2fcda6",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:08.478Z",
+      "last_update_date": "2021-02-18T12:37:08.478Z",
+      "name": "test99",
+      "prince": 99.0,
+      "preparation_time": 9900,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "5a5ad236-bda1-4fe0-b0b6-c15a5683ce8d",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:08.022Z",
+      "last_update_date": "2021-02-18T12:37:08.022Z",
+      "name": "test87",
+      "prince": 87.0,
+      "preparation_time": 8700,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "5b5308b7-3bc5-425e-a11f-72b4fe397da0",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:06.364Z",
+      "last_update_date": "2021-02-18T12:37:06.364Z",
+      "name": "test42",
+      "prince": 42.0,
+      "preparation_time": 4200,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "61abfd35-0985-4255-8a3a-5b34ebeda4b6",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:06.716Z",
+      "last_update_date": "2021-02-18T12:37:06.717Z",
+      "name": "test51",
+      "prince": 51.0,
+      "preparation_time": 5100,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "61e2c1d6-a0f7-4502-bdb7-d23f96c0a379",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:04.877Z",
+      "last_update_date": "2021-02-18T12:37:04.877Z",
+      "name": "test1",
+      "prince": 1.0,
+      "preparation_time": 100,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "6527e397-04c4-48fd-93de-7333d50e7327",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:05.274Z",
+      "last_update_date": "2021-02-18T12:37:05.274Z",
+      "name": "test12",
+      "prince": 12.0,
+      "preparation_time": 1200,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "65946c64-4a57-4180-bd7a-f12ae2dcdf28",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:07.495Z",
+      "last_update_date": "2021-02-18T12:37:07.495Z",
+      "name": "test73",
+      "prince": 73.0,
+      "preparation_time": 7300,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "69b69b82-8dcc-4ce2-9fdc-bddbbc171960",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:06.137Z",
+      "last_update_date": "2021-02-18T12:37:06.137Z",
+      "name": "test36",
+      "prince": 36.0,
+      "preparation_time": 3600,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "6af033ed-3ffa-4f28-8ce0-855949a934a8",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:06.972Z",
+      "last_update_date": "2021-02-18T12:37:06.972Z",
+      "name": "test58",
+      "prince": 58.0,
+      "preparation_time": 5800,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "6cbeda7c-f54b-439b-a07c-b8c9589da2ec",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:06.184Z",
+      "last_update_date": "2021-02-18T12:37:06.184Z",
+      "name": "test37",
+      "prince": 37.0,
+      "preparation_time": 3700,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "73a27af4-116c-4d2c-9aff-0dc58a4822f0",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:05.886Z",
+      "last_update_date": "2021-02-18T12:37:05.886Z",
+      "name": "test29",
+      "prince": 29.0,
+      "preparation_time": 2900,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "7438aef0-0052-4c0e-a214-c440893e5a1c",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:07.258Z",
+      "last_update_date": "2021-02-18T12:37:07.258Z",
+      "name": "test66",
+      "prince": 66.0,
+      "preparation_time": 6600,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "7561ea37-28cf-4718-a173-aeaa730255dd",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:05.817Z",
+      "last_update_date": "2021-02-18T12:37:05.817Z",
+      "name": "test27",
+      "prince": 27.0,
+      "preparation_time": 2700,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "799b25b0-fab4-4f90-b9d0-6bd59922cb51",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:07.527Z",
+      "last_update_date": "2021-02-18T12:37:07.527Z",
+      "name": "test74",
+      "prince": 74.0,
+      "preparation_time": 7400,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "79f52ea1-14a8-4c40-b607-74f20c6b6dbd",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:05.785Z",
+      "last_update_date": "2021-02-18T12:37:05.785Z",
+      "name": "test26",
+      "prince": 26.0,
+      "preparation_time": 2600,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "7d01dd0e-c3c0-4c62-b9b4-3e3b2f43bbab",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:07.116Z",
+      "last_update_date": "2021-02-18T12:37:07.116Z",
+      "name": "test62",
+      "prince": 62.0,
+      "preparation_time": 6200,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "7f5ce6ff-4609-4546-94e9-ce128f7650ec",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:08.444Z",
+      "last_update_date": "2021-02-18T12:37:08.444Z",
+      "name": "test98",
+      "prince": 98.0,
+      "preparation_time": 9800,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "83b40609-4614-4633-bbbc-a65df1243224",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:08.256Z",
+      "last_update_date": "2021-02-18T12:37:08.256Z",
+      "name": "test93",
+      "prince": 93.0,
+      "preparation_time": 9300,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "84d15c1f-eaf2-4452-96c8-68fdc1ffaa34",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:05.450Z",
+      "last_update_date": "2021-02-18T12:37:05.450Z",
+      "name": "test17",
+      "prince": 17.0,
+      "preparation_time": 1700,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "861f4a60-dc21-4a10-a22c-247c8be4f87f",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:06.473Z",
+      "last_update_date": "2021-02-18T12:37:06.473Z",
+      "name": "test45",
+      "prince": 45.0,
+      "preparation_time": 4500,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "869bcdc8-82cb-4101-9e96-0e610ccccaca",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:07.715Z",
+      "last_update_date": "2021-02-18T12:37:07.715Z",
+      "name": "test79",
+      "prince": 79.0,
+      "preparation_time": 7900,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "8ba65dba-1e12-4b4d-81bc-daa2c56618e3",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:08.222Z",
+      "last_update_date": "2021-02-18T12:37:08.222Z",
+      "name": "test92",
+      "prince": 92.0,
+      "preparation_time": 9200,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "8d7eb4ef-8559-403d-ade4-edcaac07a203",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:07.007Z",
+      "last_update_date": "2021-02-18T12:37:07.007Z",
+      "name": "test59",
+      "prince": 59.0,
+      "preparation_time": 5900,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "90aacc55-8c61-4f88-b832-9bc6382fd4ca",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:05.243Z",
+      "last_update_date": "2021-02-18T12:37:05.243Z",
+      "name": "test11",
+      "prince": 11.0,
+      "preparation_time": 1100,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "928e1f1a-ca10-4de6-b332-c9b629bcd7b4",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:06.827Z",
+      "last_update_date": "2021-02-18T12:37:06.827Z",
+      "name": "test54",
+      "prince": 54.0,
+      "preparation_time": 5400,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "93e34df3-fc9d-4084-b73f-b49b30a261ce",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:04.982Z",
+      "last_update_date": "2021-02-18T12:37:04.982Z",
+      "name": "test4",
+      "prince": 4.0,
+      "preparation_time": 400,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "93fd1f2f-7034-43a2-b609-a6b56eaf1e80",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:05.306Z",
+      "last_update_date": "2021-02-18T12:37:05.306Z",
+      "name": "test13",
+      "prince": 13.0,
+      "preparation_time": 1300,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "964b3ebd-a249-4be1-81f4-727d0a264750",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:05.560Z",
+      "last_update_date": "2021-02-18T12:37:05.560Z",
+      "name": "test20",
+      "prince": 20.0,
+      "preparation_time": 2000,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "9848bda4-3853-47bc-9ef7-34cbd2865b3c",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:06.097Z",
+      "last_update_date": "2021-02-18T12:37:06.097Z",
+      "name": "test35",
+      "prince": 35.0,
+      "preparation_time": 3500,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "9914c05a-b9cb-46b7-b398-aaef34e694c9",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:04.841Z",
+      "last_update_date": "2021-02-18T12:37:04.841Z",
+      "name": "test0",
+      "prince": 0.0,
+      "preparation_time": 0,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "9c630355-f031-4a7c-8695-d238aeb169bc",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:07.222Z",
+      "last_update_date": "2021-02-18T12:37:07.222Z",
+      "name": "test65",
+      "prince": 65.0,
+      "preparation_time": 6500,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "9f6510dc-86cd-4dee-bb9d-fade21581d23",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:06.296Z",
+      "last_update_date": "2021-02-18T12:37:06.296Z",
+      "name": "test40",
+      "prince": 40.0,
+      "preparation_time": 4000,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "a073457f-064d-496e-bd40-c6b67ef2fbc3",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:08.153Z",
+      "last_update_date": "2021-02-18T12:37:08.153Z",
+      "name": "test90",
+      "prince": 90.0,
+      "preparation_time": 9000,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "a5e7a30d-4244-4a0c-9bce-e43cf06d8100",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:05.375Z",
+      "last_update_date": "2021-02-18T12:37:05.375Z",
+      "name": "test15",
+      "prince": 15.0,
+      "preparation_time": 1500,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "a602a29f-34a8-4c52-9c2c-5476ae99501c",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:06.264Z",
+      "last_update_date": "2021-02-18T12:37:06.264Z",
+      "name": "test39",
+      "prince": 39.0,
+      "preparation_time": 3900,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "a6eb7bab-02dc-44bd-94b6-28281a00036c",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:05.752Z",
+      "last_update_date": "2021-02-18T12:37:05.752Z",
+      "name": "test25",
+      "prince": 25.0,
+      "preparation_time": 2500,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "a79912fd-b305-4196-a237-104bf328a34a",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:07.603Z",
+      "last_update_date": "2021-02-18T12:37:07.603Z",
+      "name": "test76",
+      "prince": 76.0,
+      "preparation_time": 7600,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "b1f5feea-fc87-4a33-a9fc-82ab0eb6b5ef",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:07.980Z",
+      "last_update_date": "2021-02-18T12:37:07.981Z",
+      "name": "test86",
+      "prince": 86.0,
+      "preparation_time": 8600,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "b6c43435-d80e-4b46-a9ca-0721b142e5b8",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:06.440Z",
+      "last_update_date": "2021-02-18T12:37:06.440Z",
+      "name": "test44",
+      "prince": 44.0,
+      "preparation_time": 4400,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "bb0cd296-4e79-4d41-8006-8edcb8037968",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:05.955Z",
+      "last_update_date": "2021-02-18T12:37:05.955Z",
+      "name": "test31",
+      "prince": 31.0,
+      "preparation_time": 3100,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "bbfdcb68-fa4c-4730-a864-77409720ed37",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:06.578Z",
+      "last_update_date": "2021-02-18T12:37:06.578Z",
+      "name": "test48",
+      "prince": 48.0,
+      "preparation_time": 4800,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "bef85ede-d808-4f83-99f2-e5a94df64c9d",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:07.041Z",
+      "last_update_date": "2021-02-18T12:37:07.041Z",
+      "name": "test60",
+      "prince": 60.0,
+      "preparation_time": 6000,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "c0361cd6-937d-4090-b92b-0684ab8d086f",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:05.058Z",
+      "last_update_date": "2021-02-18T12:37:05.058Z",
+      "name": "test6",
+      "prince": 6.0,
+      "preparation_time": 600,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "c094af73-6cf4-49dc-97a6-c12837eab2e3",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:07.751Z",
+      "last_update_date": "2021-02-18T12:37:07.751Z",
+      "name": "test80",
+      "prince": 80.0,
+      "preparation_time": 8000,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "c38fd7ec-be7b-4c4c-b7da-d7c62bf27bb7",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:08.063Z",
+      "last_update_date": "2021-02-18T12:37:08.063Z",
+      "name": "test88",
+      "prince": 88.0,
+      "preparation_time": 8800,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "c41c1856-4eac-402d-a741-625d48e1e2dd",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:07.188Z",
+      "last_update_date": "2021-02-18T12:37:07.188Z",
+      "name": "test64",
+      "prince": 64.0,
+      "preparation_time": 6400,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "ca31e583-182d-4b99-b78b-bf7fea4d7062",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:05.340Z",
+      "last_update_date": "2021-02-18T12:37:05.340Z",
+      "name": "test14",
+      "prince": 14.0,
+      "preparation_time": 1400,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "cbbd3f27-f677-4850-9184-4e17e7dba627",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:06.055Z",
+      "last_update_date": "2021-02-18T12:37:06.055Z",
+      "name": "test34",
+      "prince": 34.0,
+      "preparation_time": 3400,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "cf1bb225-f950-4c3b-ade6-bc53aa1e2713",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:06.749Z",
+      "last_update_date": "2021-02-18T12:37:06.749Z",
+      "name": "test52",
+      "prince": 52.0,
+      "preparation_time": 5200,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "d0436969-7a10-48be-824b-58f68d1c6baf",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:06.902Z",
+      "last_update_date": "2021-02-18T12:37:06.902Z",
+      "name": "test56",
+      "prince": 56.0,
+      "preparation_time": 5600,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "d2b8e065-cc87-417c-987f-764a7d27ea40",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:07.360Z",
+      "last_update_date": "2021-02-18T12:37:07.360Z",
+      "name": "test69",
+      "prince": 69.0,
+      "preparation_time": 6900,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "d2e40a32-ea8a-4d0d-ba17-c670b52e15e8",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:07.152Z",
+      "last_update_date": "2021-02-18T12:37:07.152Z",
+      "name": "test63",
+      "prince": 63.0,
+      "preparation_time": 6300,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "d33aecbd-40ae-4fce-a55d-5b3755eb0e03",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:05.485Z",
+      "last_update_date": "2021-02-18T12:37:05.485Z",
+      "name": "test18",
+      "prince": 18.0,
+      "preparation_time": 1800,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "d97cb56c-296c-45b8-8d0c-8170623e3406",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:05.683Z",
+      "last_update_date": "2021-02-18T12:37:05.683Z",
+      "name": "test23",
+      "prince": 23.0,
+      "preparation_time": 2300,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "dbe76448-28e9-4548-aff3-97e1b6550549",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:08.372Z",
+      "last_update_date": "2021-02-18T12:37:08.372Z",
+      "name": "test96",
+      "prince": 96.0,
+      "preparation_time": 9600,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "dcd7ed06-6315-455f-b2fb-42b8a4280225",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:06.509Z",
+      "last_update_date": "2021-02-18T12:37:06.509Z",
+      "name": "test46",
+      "prince": 46.0,
+      "preparation_time": 4600,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "dd12d0b6-52c3-4603-8419-c5dea802a1e3",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:08.335Z",
+      "last_update_date": "2021-02-18T12:37:08.335Z",
+      "name": "test95",
+      "prince": 95.0,
+      "preparation_time": 9500,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "dda7ff51-e23f-4b5c-ad53-71f46d2de1d6",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:07.788Z",
+      "last_update_date": "2021-02-18T12:37:07.788Z",
+      "name": "test81",
+      "prince": 81.0,
+      "preparation_time": 8100,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "dfe399ef-f6e1-416b-b4b5-349857310c14",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:07.825Z",
+      "last_update_date": "2021-02-18T12:37:07.825Z",
+      "name": "test82",
+      "prince": 82.0,
+      "preparation_time": 8200,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "e1a32011-bb62-4dfb-a645-a1c37763639e",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:05.137Z",
+      "last_update_date": "2021-02-18T12:37:05.137Z",
+      "name": "test8",
+      "prince": 8.0,
+      "preparation_time": 800,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "e9b29406-170b-49f7-bb5b-2c5d87317e4b",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:08.186Z",
+      "last_update_date": "2021-02-18T12:37:08.187Z",
+      "name": "test91",
+      "prince": 91.0,
+      "preparation_time": 9100,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "e9bcb200-c7d3-41ee-94e4-577488853f73",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:06.406Z",
+      "last_update_date": "2021-02-18T12:37:06.406Z",
+      "name": "test43",
+      "prince": 43.0,
+      "preparation_time": 4300,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "ebb0f0fe-c9e4-4b2e-a2fc-c2a39e8a79b8",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:06.542Z",
+      "last_update_date": "2021-02-18T12:37:06.542Z",
+      "name": "test47",
+      "prince": 47.0,
+      "preparation_time": 4700,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "ec65e955-4765-4312-8c76-5b7a8c3cd694",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:07.399Z",
+      "last_update_date": "2021-02-18T12:37:07.399Z",
+      "name": "test70",
+      "prince": 70.0,
+      "preparation_time": 7000,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "f486dc9e-687c-46e1-93fc-d98b4d92f2b4",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:06.222Z",
+      "last_update_date": "2021-02-18T12:37:06.222Z",
+      "name": "test38",
+      "prince": 38.0,
+      "preparation_time": 3800,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "f4d13622-0cfe-4b00-9b14-efea2d2487af",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:06.021Z",
+      "last_update_date": "2021-02-18T12:37:06.021Z",
+      "name": "test33",
+      "prince": 33.0,
+      "preparation_time": 3300,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "f727a7de-a6a0-4b4d-b78e-5dd850ef359a",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:06.680Z",
+      "last_update_date": "2021-02-18T12:37:06.680Z",
+      "name": "test50",
+      "prince": 50.0,
+      "preparation_time": 5000,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "fe2a0d0c-6d21-4dfc-bdba-ff8762ff49f8",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:05.920Z",
+      "last_update_date": "2021-02-18T12:37:05.920Z",
+      "name": "test30",
+      "prince": 30.0,
+      "preparation_time": 3000,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.dish",
+    "pk": "fed99bd4-9a0b-4dcf-891a-04ff97cfadbb",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:37:06.935Z",
+      "last_update_date": "2021-02-18T12:37:06.936Z",
+      "name": "test57",
+      "prince": 57.0,
+      "preparation_time": 5700,
+      "is_vegan": false
+    }
+  },
+  {
+    "model": "menu.menucard",
+    "pk": "0506d0a9-96dd-441f-90a8-43b5aaa82f46",
+    "fields": {
+      "description": "",
+      "create_date": "2021-02-18T12:39:37.813Z",
+      "last_update_date": "2021-02-18T12:39:37.813Z",
+      "name": "test5",
+      "dishes": [
+        "06ff54ab-009c-44bd-b60a-cb31d507890a",
+        "0e4db2f4-112a-4217-89a8-0913571d5988",
+        "150d0f2b-aaa5-493a-a7ab-b3735e586d1a",
+        "220ad9fd-1594-4b9d-bea1-2d30a8e28242",
+        "283048de-209e-4104-a5b2-7fd03e3cf846",
+        "406a0759-8e53-407c-8b09-ab459ff77449",
+        "41e0cba0-7e40-431b-95b3-85f151fb755c",
+        "4282ffc0-181e-4c77-b917-519018be21ca",
+        "4ace16e0-66e2-4178-af9f-a429f0f0bc14",
+        "507e6a1d-2bf1-4773-919a-c14e3c8de8b9",
+        "54c09995-9c40-46f1-8afe-43b009ba97fd",
+        "5b5308b7-3bc5-425e-a11f-72b4fe397da0",
+        "6527e397-04c4-48fd-93de-7333d50e7327",
+        "73a27af4-116c-4d2c-9aff-0dc58a4822f0",
+        "7561ea37-28cf-4718-a173-aeaa730255dd",
+        "79f52ea1-14a8-4c40-b607-74f20c6b6dbd",
+        "84d15c1f-eaf2-4452-96c8-68fdc1ffaa34",
+        "861f4a60-dc21-4a10-a22c-247c8be4f87f",
+        "90aacc55-8c61-4f88-b832-9bc6382fd4ca",
+        "93e34df3-fc9d-4084-b73f-b49b30a261ce",
+        "93fd1f2f-7034-43a2-b609-a6b56eaf1e80",
+        "964b3ebd-a249-4be1-81f4-727d0a264750",
+        "a5e7a30d-4244-4a0c-9bce-e43cf06d8100",
+        "a6eb7bab-02dc-44bd-94b6-28281a00036c",
+        "c0361cd6-937d-4090-b92b-0684ab8d086f",
+        "ca31e583-182d-4b99-b78b-bf7fea4d7062",
+        "d33aecbd-40ae-4fce-a55d-5b3755eb0e03",
+        "d97cb56c-296c-45b8-8d0c-8170623e3406",
+        "dcd7ed06-6315-455f-b2fb-42b8a4280225",
+        "e1a32011-bb62-4dfb-a645-a1c37763639e",
+        "e9bcb200-c7d3-41ee-94e4-577488853f73",
+        "ebb0f0fe-c9e4-4b2e-a2fc-c2a39e8a79b8"
+      ]
+    }
+  },
+  {
+    "model": "menu.menucard",
+    "pk": "97a096bd-35fc-4da0-bea9-d948a0b9b30d",
+    "fields": {
+      "description": "Other menu",
+      "create_date": "2021-02-18T12:38:15.053Z",
+      "last_update_date": "2021-02-18T12:38:15.053Z",
+      "name": "test1",
+      "dishes": [
+        "06ff54ab-009c-44bd-b60a-cb31d507890a",
+        "0e4db2f4-112a-4217-89a8-0913571d5988",
+        "150d0f2b-aaa5-493a-a7ab-b3735e586d1a",
+        "283048de-209e-4104-a5b2-7fd03e3cf846",
+        "4260187b-5ddc-4626-925e-0d4c5100db77",
+        "507e6a1d-2bf1-4773-919a-c14e3c8de8b9",
+        "54c09995-9c40-46f1-8afe-43b009ba97fd",
+        "6527e397-04c4-48fd-93de-7333d50e7327",
+        "69b69b82-8dcc-4ce2-9fdc-bddbbc171960",
+        "6cbeda7c-f54b-439b-a07c-b8c9589da2ec",
+        "73a27af4-116c-4d2c-9aff-0dc58a4822f0",
+        "7561ea37-28cf-4718-a173-aeaa730255dd",
+        "79f52ea1-14a8-4c40-b607-74f20c6b6dbd",
+        "84d15c1f-eaf2-4452-96c8-68fdc1ffaa34",
+        "90aacc55-8c61-4f88-b832-9bc6382fd4ca",
+        "93fd1f2f-7034-43a2-b609-a6b56eaf1e80",
+        "964b3ebd-a249-4be1-81f4-727d0a264750",
+        "9848bda4-3853-47bc-9ef7-34cbd2865b3c",
+        "a5e7a30d-4244-4a0c-9bce-e43cf06d8100",
+        "a6eb7bab-02dc-44bd-94b6-28281a00036c",
+        "bb0cd296-4e79-4d41-8006-8edcb8037968",
+        "ca31e583-182d-4b99-b78b-bf7fea4d7062",
+        "cbbd3f27-f677-4850-9184-4e17e7dba627",
+        "d33aecbd-40ae-4fce-a55d-5b3755eb0e03",
+        "d97cb56c-296c-45b8-8d0c-8170623e3406",
+        "f4d13622-0cfe-4b00-9b14-efea2d2487af",
+        "fe2a0d0c-6d21-4dfc-bdba-ff8762ff49f8"
+      ]
+    }
+  },
+  {
+    "model": "menu.menucard",
+    "pk": "9e370dc6-edbe-41f6-a57f-5b0d9acee063",
+    "fields": {
+      "description": "test",
+      "create_date": "2021-02-18T12:38:26.706Z",
+      "last_update_date": "2021-02-18T12:38:26.706Z",
+      "name": "test2",
+      "dishes": [
+        "1d1d8a31-259e-49ad-b766-004e5fc5ccd5",
+        "2b9d013b-37e6-48f1-b22e-34f2f8d28317",
+        "2c81b3d8-0623-40b7-9db3-7d9bf1d652a7",
+        "4d1ca308-b853-4fce-9463-12907e4edade",
+        "5a5ad236-bda1-4fe0-b0b6-c15a5683ce8d",
+        "83b40609-4614-4633-bbbc-a65df1243224",
+        "8ba65dba-1e12-4b4d-81bc-daa2c56618e3",
+        "a073457f-064d-496e-bd40-c6b67ef2fbc3",
+        "b1f5feea-fc87-4a33-a9fc-82ab0eb6b5ef",
+        "c38fd7ec-be7b-4c4c-b7da-d7c62bf27bb7",
+        "dbe76448-28e9-4548-aff3-97e1b6550549",
+        "dd12d0b6-52c3-4603-8419-c5dea802a1e3",
+        "e9b29406-170b-49f7-bb5b-2c5d87317e4b"
+      ]
+    }
+  },
+  {
+    "model": "menu.menucard",
+    "pk": "ad1a9a1b-6482-4d62-81f5-3ada39fa214a",
+    "fields": {
+      "description": "First Menu",
+      "create_date": "2021-02-18T12:37:46.808Z",
+      "last_update_date": "2021-02-18T12:37:46.808Z",
+      "name": "test",
+      "dishes": [
+        "0bb9b733-bda2-4612-8c2c-f901cfe8ddeb",
+        "406a0759-8e53-407c-8b09-ab459ff77449",
+        "4282ffc0-181e-4c77-b917-519018be21ca",
+        "4ace16e0-66e2-4178-af9f-a429f0f0bc14",
+        "61e2c1d6-a0f7-4502-bdb7-d23f96c0a379",
+        "93e34df3-fc9d-4084-b73f-b49b30a261ce",
+        "9914c05a-b9cb-46b7-b398-aaef34e694c9",
+        "c0361cd6-937d-4090-b92b-0684ab8d086f"
+      ]
+    }
+  },
+  {
+    "model": "menu.menucard",
+    "pk": "d44f8293-3c41-4540-8484-89f250722c0d",
+    "fields": {
+      "description": "test4",
+      "create_date": "2021-02-18T12:38:46.534Z",
+      "last_update_date": "2021-02-18T12:38:46.534Z",
+      "name": "test4",
+      "dishes": [
+        "018ac490-5952-435a-80ae-2df840da4ab8",
+        "06ff54ab-009c-44bd-b60a-cb31d507890a",
+        "0905e914-a313-43d2-b679-76e39897a881",
+        "090ca06f-dd98-4963-a510-5e09ec6448b9",
+        "0b02b49a-034b-43eb-a838-04bed6d6b55f",
+        "0e4db2f4-112a-4217-89a8-0913571d5988",
+        "11f7f50b-89c4-4f8a-b74b-c996eb30ce9d",
+        "150d0f2b-aaa5-493a-a7ab-b3735e586d1a",
+        "1940f0d9-8665-47eb-8b3e-0397618d0d16",
+        "220ad9fd-1594-4b9d-bea1-2d30a8e28242",
+        "283048de-209e-4104-a5b2-7fd03e3cf846",
+        "2aee843a-15bd-4102-baa9-27bfc20b9aef",
+        "4024184b-3aeb-4700-8c19-de2e7ee3aaec",
+        "406a0759-8e53-407c-8b09-ab459ff77449",
+        "41e0cba0-7e40-431b-95b3-85f151fb755c",
+        "4260187b-5ddc-4626-925e-0d4c5100db77",
+        "4282ffc0-181e-4c77-b917-519018be21ca",
+        "4ace16e0-66e2-4178-af9f-a429f0f0bc14",
+        "4d3e2e1e-602c-493c-8d5a-44cc9f10cd9b",
+        "507e6a1d-2bf1-4773-919a-c14e3c8de8b9",
+        "54c09995-9c40-46f1-8afe-43b009ba97fd",
+        "55cd342d-ebf3-4515-9ca4-d0949d35077a",
+        "5b5308b7-3bc5-425e-a11f-72b4fe397da0",
+        "61abfd35-0985-4255-8a3a-5b34ebeda4b6",
+        "6527e397-04c4-48fd-93de-7333d50e7327",
+        "65946c64-4a57-4180-bd7a-f12ae2dcdf28",
+        "69b69b82-8dcc-4ce2-9fdc-bddbbc171960",
+        "6af033ed-3ffa-4f28-8ce0-855949a934a8",
+        "6cbeda7c-f54b-439b-a07c-b8c9589da2ec",
+        "73a27af4-116c-4d2c-9aff-0dc58a4822f0",
+        "7438aef0-0052-4c0e-a214-c440893e5a1c",
+        "7561ea37-28cf-4718-a173-aeaa730255dd",
+        "799b25b0-fab4-4f90-b9d0-6bd59922cb51",
+        "79f52ea1-14a8-4c40-b607-74f20c6b6dbd",
+        "7d01dd0e-c3c0-4c62-b9b4-3e3b2f43bbab",
+        "84d15c1f-eaf2-4452-96c8-68fdc1ffaa34",
+        "861f4a60-dc21-4a10-a22c-247c8be4f87f",
+        "8d7eb4ef-8559-403d-ade4-edcaac07a203",
+        "90aacc55-8c61-4f88-b832-9bc6382fd4ca",
+        "928e1f1a-ca10-4de6-b332-c9b629bcd7b4",
+        "93e34df3-fc9d-4084-b73f-b49b30a261ce",
+        "93fd1f2f-7034-43a2-b609-a6b56eaf1e80",
+        "964b3ebd-a249-4be1-81f4-727d0a264750",
+        "9848bda4-3853-47bc-9ef7-34cbd2865b3c",
+        "9c630355-f031-4a7c-8695-d238aeb169bc",
+        "9f6510dc-86cd-4dee-bb9d-fade21581d23",
+        "a5e7a30d-4244-4a0c-9bce-e43cf06d8100",
+        "a602a29f-34a8-4c52-9c2c-5476ae99501c",
+        "a6eb7bab-02dc-44bd-94b6-28281a00036c",
+        "a79912fd-b305-4196-a237-104bf328a34a",
+        "b6c43435-d80e-4b46-a9ca-0721b142e5b8",
+        "bb0cd296-4e79-4d41-8006-8edcb8037968",
+        "bbfdcb68-fa4c-4730-a864-77409720ed37",
+        "bef85ede-d808-4f83-99f2-e5a94df64c9d",
+        "c0361cd6-937d-4090-b92b-0684ab8d086f",
+        "c41c1856-4eac-402d-a741-625d48e1e2dd",
+        "ca31e583-182d-4b99-b78b-bf7fea4d7062",
+        "cbbd3f27-f677-4850-9184-4e17e7dba627",
+        "cf1bb225-f950-4c3b-ade6-bc53aa1e2713",
+        "d0436969-7a10-48be-824b-58f68d1c6baf",
+        "d2b8e065-cc87-417c-987f-764a7d27ea40",
+        "d2e40a32-ea8a-4d0d-ba17-c670b52e15e8",
+        "d33aecbd-40ae-4fce-a55d-5b3755eb0e03",
+        "d97cb56c-296c-45b8-8d0c-8170623e3406",
+        "dcd7ed06-6315-455f-b2fb-42b8a4280225",
+        "e1a32011-bb62-4dfb-a645-a1c37763639e"
+      ]
+    }
+  }
+]
